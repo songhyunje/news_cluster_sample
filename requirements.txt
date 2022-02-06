@@ -1,0 +1,9 @@
+requests
+pyyaml
+elasticsearch
+elasticsearch_dsl
+transformers[torch]
+scikit-learn
+kss
+hdbscan
+umap-learn
